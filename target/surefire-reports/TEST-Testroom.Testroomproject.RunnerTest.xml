@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="51" failures="0" name="Testroom.Testroomproject.RunnerTest" time="0.31" errors="0" skipped="25">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_112\jre\bin"/>
+    <property name="java.vm.version" value="25.112-b15"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\m1034519\workspace\Testroomproject"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\m1034519\workspace\Testroomproject"/>
+    <property name="java.runtime.version" value="1.8.0_112-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\m1034519\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\m1034519\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6207774577660083954.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_112\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_112/bin/server;C:/Program Files/Java/jre1.8.0_112/bin;C:/Program Files/Java/jre1.8.0_112/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Microsoft Online Services;C:\Program Files (x86)\Common Files\Microsoft Shared\Microsoft Online Services;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.8.0_112\bin;D:\Selenium Java Files\eclipse-jee-mars-R-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\m1034519"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="M1034519"/>
+    <property name="java.class.path" value="/D:/Selenium Java Files/eclipse-jee-mars-R-win32-x86_64/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_112\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_112"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_112\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_112\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\m1034519\workspace\Testroomproject\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Scenario: To verify user is able to check the adoption today" name="Given I am in the test room site" time="0.009"/>
+  <testcase classname="Scenario: To verify user is able to check the adoption today" name="When I click on &apos;Adoption&apos; link" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To verify user is able to check the adoption today" name="And I Set the start date to &quot;Today&quot;" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To verify user is able to check the adoption today" name="And I click on &apos;Check&apos; button" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To verify user is able to check the adoption today" name="And I enter text into the field" time="0.014">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To verify user is able to check the adoption today" name="And I submit the &apos;Check&apos; button" time="0.02">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To verify user is able to check the adoption today" name="Then I check message &apos;YOUR ADOPTION HAS BEEN SET UP&apos;" time="0.023">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To verify user is able to check the adoption today" name="Scenario: To verify user is able to check the adoption today" time="0.024">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To verify user is able to check the adoption today" name="Scenario: To verify user is able to check the adoption today" time="0.024"/>
+  <testcase classname="Scenario: Check page title for Adoption page" name="Given User is on Zoo website" time="0"/>
+  <testcase classname="Scenario: Check page title for Adoption page" name="When I navigate to Adoption page" time="0.002"/>
+  <testcase classname="Scenario: Check page title for Adoption page" name="Then I check page title as Adoption" time="0"/>
+  <testcase classname="Scenario: Check page title for Adoption page" name="Scenario: Check page title for Adoption page" time="0"/>
+  <testcase classname="Scenario: Check page title for About page" name="Given User is on Zoo website" time="0"/>
+  <testcase classname="Scenario: Check page title for About page" name="When I navigate to About page" time="0"/>
+  <testcase classname="Scenario: Check page title for About page" name="Then I check page title as About" time="0"/>
+  <testcase classname="Scenario: Check page title for About page" name="Scenario: Check page title for About page" time="0.001"/>
+  <testcase classname="Scenario: Check page title for Contact page" name="Given User is on Zoo website" time="0"/>
+  <testcase classname="Scenario: Check page title for Contact page" name="When I navigate to Contact page" time="0"/>
+  <testcase classname="Scenario: Check page title for Contact page" name="Then I check page title as Contact" time="0"/>
+  <testcase classname="Scenario: Check page title for Contact page" name="Scenario: Check page title for Contact page" time="0.001"/>
+  <testcase classname="Scenario: Submit form using valid data" name="Given I am on the Zoo site" time="0"/>
+  <testcase classname="Scenario: Submit form using valid data" name="When I navigate to Contact" time="0"/>
+  <testcase classname="Scenario: Submit form using valid data" name="And I submit the form with valid data" time="0.003"/>
+  <testcase classname="Scenario: Submit form using valid data" name="Then I check that the form is submitted" time="0"/>
+  <testcase classname="Scenario: Submit form using valid data" name="Scenario: Submit form using valid data" time="0"/>
+  <testcase classname="| adoption_link | Adoption |" name="Given I am in Zoo website" time="0"/>
+  <testcase classname="| adoption_link | Adoption |" name="When I click on adoption_link" time="0.006">
+    <skipped/>
+  </testcase>
+  <testcase classname="| adoption_link | Adoption |" name="Then I check I am on Adoption" time="0.006">
+    <skipped/>
+  </testcase>
+  <testcase classname="| adoption_link | Adoption |" name="| adoption_link | Adoption |" time="0.007">
+    <skipped/>
+  </testcase>
+  <testcase classname="| adoption_link | Adoption |" name="| adoption_link | Adoption |" time="0.007"/>
+  <testcase classname="| about_link | About |" name="Given I am in Zoo website" time="0"/>
+  <testcase classname="| about_link | About |" name="When I click on about_link" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="| about_link | About |" name="Then I check I am on About" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase classname="| about_link | About |" name="| about_link | About |" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="| about_link | About |" name="| about_link | About |" time="0.002"/>
+  <testcase classname="| contact_link | Contact |" name="Given I am in Zoo website" time="0"/>
+  <testcase classname="| contact_link | Contact |" name="When I click on contact_link" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="| contact_link | Contact |" name="Then I check I am on Contact" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase classname="| contact_link | Contact |" name="| contact_link | Contact |" time="0.005">
+    <skipped/>
+  </testcase>
+  <testcase classname="| contact_link | Contact |" name="| contact_link | Contact |" time="0.005"/>
+  <testcase classname="Scenario: To populate the contact form" name="Given User is on Zoo site page" time="0.011">
+    <skipped/>
+    <system-out>
+  Scenario Outline: Check page title # ScenarioOutline.feature:11
+    Given I am in Zoo website        # StepDefinitionScenarioOutline.i_am_in_Zoo_website()
+    When I click on contact_link
+    Then I check I am on Contact
+Feature: To test the hight functionality of zoo test
+</system-out>
+  </testcase>
+  <testcase classname="Scenario: To populate the contact form" name="When I click on &quot;Contact&quot;" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To populate the contact form" name="And I enter &quot;Name test&quot; into the name field" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To populate the contact form" name="And I enter &quot;Address test&quot; into the address field" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To populate the contact form" name="And I enter &quot;Postcode test&quot; into the postcode field" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To populate the contact form" name="And I enter &quot;Email test&quot; into the email field" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To populate the contact form" name="And I submit the contact form" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To populate the contact form" name="Then I check I am on the confirmation page" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To populate the contact form" name="Scenario: To populate the contact form" time="0.011">
+    <skipped/>
+  </testcase>
+  <testcase classname="Scenario: To populate the contact form" name="Scenario: To populate the contact form" time="0.011"/>
+</testsuite>
