@@ -10,6 +10,7 @@ import cucumber.api.junit.Cucumber;
 		//tags = {"@pageTitle,@AdoptionAnimal"},
 		format={"pretty","html:target/html/output.html","json:target/json/output.json"},
 	features = { "src/test/resource/" },
+		
 	monochrome = true )
 
 
