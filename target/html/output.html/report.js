@@ -59,7 +59,7 @@ formatter.match({
   "location": "StepDefinitionAdoptionAnimal.i_am_in_the_test_room_site()"
 });
 formatter.result({
-  "duration": 7421685654,
+  "duration": 41006737910,
   "status": "passed"
 });
 formatter.match({});
@@ -132,7 +132,7 @@ formatter.match({
   "location": "StepDefinitionPageTitle.user_is_on_Zoo_website()"
 });
 formatter.result({
-  "duration": 2413941892,
+  "duration": 95173383776,
   "status": "passed"
 });
 formatter.scenario({
@@ -157,14 +157,14 @@ formatter.match({
   "location": "StepDefinitionPageTitle.i_navigate_to_Adoption_page()"
 });
 formatter.result({
-  "duration": 1651749120,
+  "duration": 13298452235,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionPageTitle.i_check_page_title_as_Adoption()"
 });
 formatter.result({
-  "duration": 141740568,
+  "duration": 79824449,
   "status": "passed"
 });
 formatter.background({
@@ -183,7 +183,7 @@ formatter.match({
   "location": "StepDefinitionPageTitle.user_is_on_Zoo_website()"
 });
 formatter.result({
-  "duration": 616566774,
+  "duration": 69046689137,
   "status": "passed"
 });
 formatter.scenario({
@@ -208,14 +208,14 @@ formatter.match({
   "location": "StepDefinitionPageTitle.i_navigate_to_About_page()"
 });
 formatter.result({
-  "duration": 1303810258,
+  "duration": 9645304359,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionPageTitle.i_check_page_title_as_About()"
 });
 formatter.result({
-  "duration": 119016721,
+  "duration": 103164092,
   "status": "passed"
 });
 formatter.background({
@@ -234,7 +234,7 @@ formatter.match({
   "location": "StepDefinitionPageTitle.user_is_on_Zoo_website()"
 });
 formatter.result({
-  "duration": 587993022,
+  "duration": 5538623926,
   "status": "passed"
 });
 formatter.scenario({
@@ -259,14 +259,14 @@ formatter.match({
   "location": "StepDefinitionPageTitle.i_navigate_to_Contact_page()"
 });
 formatter.result({
-  "duration": 1868267367,
+  "duration": 16473361196,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionPageTitle.i_check_page_title_as_Contact()"
 });
 formatter.result({
-  "duration": 76501160,
+  "duration": 21106262,
   "status": "passed"
 });
 formatter.uri("ScenarioDataTables.feature");
@@ -346,28 +346,28 @@ formatter.match({
   "location": "StepDefinitionScenarioDataTable.i_am_on_the_Zoo_site()"
 });
 formatter.result({
-  "duration": 1647696599,
+  "duration": 1797290385,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionScenarioDataTable.i_navigate_to_Contact()"
 });
 formatter.result({
-  "duration": 1315179572,
+  "duration": 4498451004,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionScenarioDataTable.i_submit_the_form_with_valid_data(DataTable)"
 });
 formatter.result({
-  "duration": 2569439934,
+  "duration": 21820845564,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinitionScenarioDataTable.i_check_that_the_form_is_submitted()"
 });
 formatter.result({
-  "duration": 45258845,
+  "duration": 122366234,
   "status": "passed"
 });
 formatter.uri("ScenarioOutline.feature");
@@ -475,7 +475,7 @@ formatter.match({
   "location": "StepDefinitionScenarioOutline.i_am_in_Zoo_website()"
 });
 formatter.result({
-  "duration": 989824971,
+  "duration": 26206139332,
   "status": "passed"
 });
 formatter.match({});
@@ -519,7 +519,7 @@ formatter.match({
   "location": "StepDefinitionScenarioOutline.i_am_in_Zoo_website()"
 });
 formatter.result({
-  "duration": 1115045076,
+  "duration": 13831037002,
   "status": "passed"
 });
 formatter.match({});
@@ -563,7 +563,7 @@ formatter.match({
   "location": "StepDefinitionScenarioOutline.i_am_in_Zoo_website()"
 });
 formatter.result({
-  "duration": 881416408,
+  "duration": 7649234533,
   "status": "passed"
 });
 formatter.match({});
